@@ -1,0 +1,20 @@
+.msg_0 {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    border-radius: 5px;
+    color: black;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.msg_1 {
+    width: 1000px;
+    margin: auto;
+    text-align: left;
+    background: #F2ABE9;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+    font-size: 24px;
+}
